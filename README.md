@@ -1,2 +1,6 @@
 # kinder-boot
-Kinder backend service
+
+Not a dating app.
+
+
+Connect with students
